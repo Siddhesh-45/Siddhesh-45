@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on full stack development 
 - 📫 How to reach me Gmail- sonawanesiddhesh46@gmail.com
-- 😄 Pronouns: siddhu
+- 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
 <!---
